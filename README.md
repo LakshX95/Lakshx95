@@ -135,7 +135,7 @@ drwxr-xr-x  fine-tune-lab/     [ML]          LLM fine-tuning experiments with Hu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshx/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF41.svg?style=for-the-badge&logo=firefox&logoColor=black)](https://lakshan.dev)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshan@email.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshansandeep7@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lakshan)
 
 </div>
